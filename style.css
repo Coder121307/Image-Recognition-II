@@ -1,0 +1,14 @@
+body{
+    color:white;
+    background: aquamarine;
+}
+
+#camera{
+    border: 3px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects{
+    color:limegreen;
+}
